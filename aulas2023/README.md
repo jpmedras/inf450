@@ -7,7 +7,7 @@
 
 ## Referências
 
-## Aulas gravadas e playlists
+## Material
 
 ### Parte 1 - Processador
 
